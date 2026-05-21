@@ -254,7 +254,7 @@ class Tower2:
             y - 20,
             x + 20,
             y + 20,
-            fill="green"
+            fill="cyan"
         )
 
     def find_target(self):
